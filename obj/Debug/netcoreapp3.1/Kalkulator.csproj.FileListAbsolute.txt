@@ -1,0 +1,13 @@
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.exe
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.deps.json
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.json
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.runtimeconfig.dev.json
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\bin\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.AssemblyInfo.cs
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.dll
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.pdb
+C:\Users\Mario\source\repos\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.1\Kalkulator.genruntimeconfig.cache
